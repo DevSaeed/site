@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our Pages
 
 You can use the [editor on GitHub](https://github.com/DevSaeed/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
